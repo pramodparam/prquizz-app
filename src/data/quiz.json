@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "question": "Javascript is an _______ language",
+      "choices": ["Object-Oriented",
+      "Object-Based",
+      "Procedural"],
+      "answer": "Object-Oriented"
+    },
+    {
+      "question": "Following methods can be used to display data in some form using Javascript",
+      "choices": ["document.write()",
+      "console.log()",
+      "window.alert()"],
+      "answer": "document.write()"
+    },
+    {
+      "question": "When an operator value is NULL, the typeof returned by the unary operator is:",
+      "choices": ["Boolean",
+      "Undefined",
+      "Object"],
+      "answer": "Undefined"
+    },
+    {
+      "question": "What does the toString() method return?",
+      "choices": ["Return Object",
+      "Return String",
+      "Return Integer"],
+      "answer": "Return String"
+    },
+    {
+      "question": "Which function is used to serialize an object into a JSON string?",
+      "choices": ["stringify()",
+      "parse()",
+      "convert()"],
+      "answer": "stringify()"
+    }
+  ]
+}
